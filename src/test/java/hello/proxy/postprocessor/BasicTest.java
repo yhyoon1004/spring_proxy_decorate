@@ -9,7 +9,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 public class BasicTest {
-
     @Test
     void basicConfig() {
         //spring container 에  아래의 BasicConfig class 를 넣어줌
